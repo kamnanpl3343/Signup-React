@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "shyam",
+      "pwd": "12345",
+      "matchPwd": "12345"
+    },
+    {
+      "id": "c70e",
+      "user": "kamna",
+      "pwd": "Kamna@123",
+      "matchPwd": "Kamna@123"
+    },
+    {
+      "id": "52b9",
+      "user": "kamna",
+      "pwd": "Kk@12345",
+      "matchPwd": "Kk@12345"
+    },
+    {
+      "id": "f7fb",
+      "user": "kamna",
+      "pwd": "Kk@12345",
+      "matchPwd": "Kk@12345"
+    },
+    {
+      "id": "3a6a",
+      "user": "kkkk",
+      "pwd": "K@kkkk1111",
+      "matchPwd": "K@kkkk1111"
+    },
+    {
+      "id": "3d11",
+      "user": "kamna",
+      "pwd": "abCD123!",
+      "matchPwd": "abCD123!"
+    },
+    {
+      "id": "c7fe",
+      "user": "kamna",
+      "pwd": "Kk12345!!",
+      "matchPwd": "Kk12345!!"
+    },
+    {
+      "id": "73f4",
+      "user": "kamnaa",
+      "pwd": "Kamna@123",
+      "matchPwd": "Kamna@123"
+    }
+  ]
+}
