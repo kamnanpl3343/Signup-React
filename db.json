@@ -1,0 +1,36 @@
+{
+  "employee": [
+    {
+      "id": "3",
+      "name": "shyam",
+      "email": "shyam@gmail.com",
+      "phone": "908908767"
+    },
+    {
+      "id": "4",
+      "name": "sita",
+      "email": "sita@gmail.com",
+      "phone": "908908767"
+    },
+    {
+      "id": "5",
+      "name": "vikram",
+      "email": "vikram@in.com",
+      "phone": "908908767"
+    },
+    {
+      "id": "bc18",
+      "name": "rtrtr55t",
+      "email": "",
+      "phone": "",
+      "active": true
+    },
+    {
+      "id": "1dff",
+      "name": "kamna ",
+      "email": "kamna@gmail.com",
+      "phone": "9874522323",
+      "active": true
+    }
+  ]
+}

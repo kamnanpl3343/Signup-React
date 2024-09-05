@@ -1,0 +1,50 @@
+*{
+  margin: 0;
+  padding: 0;
+  background-color: #f7f4ef;
+  box-sizing: border-box;
+}
+.btn{
+  margin: 2px;;
+}
+.divbtn{
+  float: left;
+}
+.header
+{
+  background-color: #6f98c4;
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.navbar
+{
+  /* background-color: #6f98c4; */
+  border-radius: 10px;
+}
+.navv-link
+{
+  padding:0.5rem 1rem;
+  color:#994c29;
+  list-style-type: none;
+  text-decoration: none;
+
+}
+.navv-link:hover
+{
+  color: rgb(47, 118, 165);
+}
+.card
+{
+  box-shadow: 1px 1px 5px black;
+}
+
+.tableHead
+{
+  font-size: 25px;
+  font-weight: bold;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
