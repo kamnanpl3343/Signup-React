@@ -26,7 +26,7 @@ const Register = () => {
     const [matchFocus, setMatchFocus] = useState(false);
 
     const [errMsg, setErrMsg] = useState('');
-    const [success, setSuccess] = useState(false);
+   
 
 
     useEffect(() => {
@@ -62,8 +62,10 @@ const Register = () => {
     
         try {
             // Check if the username already exists
-            const response = await axios.get("http://localhost:8001/data");
+            const response = await axios.get("http://localhost:8001/data")
+          
             const users = response.data;
+            console.log(users)
     
             const userExists = users.some(existingUser => existingUser.user === user);
     
@@ -180,7 +182,7 @@ return (
             Already registered?<br />
             <span className="line">
                 {/*put router link here*/}
-                <a href="#">Sign In</a>
+                <Link to="/login">Sign In</Link>
             </span>
         </p>
 
